@@ -1,5 +1,5 @@
-# Netflix-clone-Avengers-theme-inspired
-A responsive Netflix-style landing page with an Avengers theme, built to 
+# Natflix-clone-Avengers-theme-inspired
+A responsive Natflix-style landing page with an Avengers theme, built to 
 practice CSS Flexbox, CSS Grid, and modern responsive design techniques.
 
 ## Features
